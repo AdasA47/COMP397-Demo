@@ -1,0 +1,19 @@
+{
+  "name": "comp-397",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AdasA47/COMP397-Assignment2.git"
+  },
+  "author": "Adithya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AdasA47/COMP397-Assignment2/issues"
+  },
+  "homepage": "https://github.com/AdasA47/COMP397-Assignment2#readme"
+}
